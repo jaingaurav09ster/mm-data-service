@@ -1,2 +1,2 @@
-# mm-ds-python-common-utils
-Common Utilities for Python Based Projects
+# mm-data-service
+Utility to expose Data access API's on the fly inside a docker container
